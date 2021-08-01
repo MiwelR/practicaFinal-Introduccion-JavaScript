@@ -1,0 +1,12 @@
+{
+  "name": "practicafinal-introduccion-javascript",
+  "version": "1.0.0",
+  "description": "Proyecto Introducción a JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Ángel De los Ríos",
+  "license": "ISC"
+}
